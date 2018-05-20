@@ -10,12 +10,12 @@ class App extends Component {
 
   componentDidMount() {
     const config = {
-      apiKey: 'AIzaSyAPYSYzUGBObks3hqBAg2Mb0VkDiCHWZiY',
-      authDomain: 'taker-c5788.firebaseapp.com',
-      databaseURL: 'https://taker-c5788.firebaseio.com',
-      projectId: 'taker-c5788',
-      storageBucket: 'taker-c5788.appspot.com',
-      messagingSenderId: '813674765422'
+      apiKey: '',
+      authDomain: '',
+      databaseURL: '',
+      projectId: '',
+      storageBucket: '',
+      messagingSenderId: ''
     };
     firebase.initializeApp(config);
   }
