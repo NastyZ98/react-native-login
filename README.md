@@ -21,3 +21,6 @@ IOS
 ```
 react-native run-ios
 ```
+
+## Screenshot
+![Application](https://i.imgur.com/BqKy9je.png)
