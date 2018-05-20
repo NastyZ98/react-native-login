@@ -8,6 +8,7 @@ Simple login app using React Native, React Native Elements, Firebase, Redux and 
  * redux
  * redux-thunk
  * firebase
+ * eslint-config-rallycoding
 ```
 npm i
 ```
